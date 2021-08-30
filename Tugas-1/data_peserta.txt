@@ -1,0 +1,6 @@
+Data Peserta Jabar Coding Camp Golang
+1. Nama: Moch. Fathi Siddiqi
+2. Email: service.fathisiddiqi@gmail.com
+3. Sistem Operasi yang digunakan: Linux
+4. Akun Gitlab/Github: fathisiddiqi
+5. Akun Telegram: fathisiddiqi
